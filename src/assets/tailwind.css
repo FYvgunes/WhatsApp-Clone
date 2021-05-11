@@ -1,0 +1,12 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.bg-wa-dark{
+    background-color: #065E54;
+}
+.bg-wa-darkwind{
+    background-color: #173430;
+}
